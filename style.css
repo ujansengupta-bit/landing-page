@@ -205,3 +205,13 @@ img{
     color: #F9FAF8;
     margin: auto 100px auto auto  
 }
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2939;
+    font-family: 'Roboto', sans-serif;
+    color: #E5E7EB;
+    height: 50px;
+}
